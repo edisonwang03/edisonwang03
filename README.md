@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edisonwang03
+- 👋 Hi, I’m Edison Wang
 - 👀 I’m interested in game development, data analysis, and machine learning
 - 🌱 I’m currently learning at Rutgers University (Honors College) and plan to graduate in May 2025
 - 💞️ I’m looking to collaborate on projects that will improve my collaboration and interpersonal skills while advancing my knowledge in programming
