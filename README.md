@@ -5,7 +5,6 @@
 - 📫 How to reach me...
   - DM me on Twitter: @edisonwang2003
   - DM me on Instagram: edisonwang_
-  - Email me: edisonwang03@gmail.com
 
 <!---
 edisonwang03/edisonwang03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
